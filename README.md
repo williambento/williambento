@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=react,flask,html,css,vscode,figma,git" />
 </div>
 
-<br/>
+
 <hr/>
 <!--
 <div align="center">
