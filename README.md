@@ -52,22 +52,12 @@
 </div>
 -->
 
-<!--<hr/>
-
-<h2 align="center">⚡ Estatísticas ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=williambento&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-williambento.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-williambento.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
--->
+<hr/>
 <!--
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=williambento&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="William Bento github stats" /> 
-  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambento&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />-->
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambento&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div> -->
 <br/><br/>
 <hr/>
