@@ -51,17 +51,17 @@
   <br/><br/><br/>
 </div>
 -->
-
-<hr/>
 <!--
+<hr/>
+
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=williambento&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="William Bento github stats" /> 
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williambento&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div> -->
+</div> 
 <br/><br/>
 <hr/>
-
+-->
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;+Volte+sempre!;Estou+sempre+disposto+a+colaborar+:)">
 </h3>
