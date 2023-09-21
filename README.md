@@ -6,7 +6,7 @@
 
 <h3 align="center">Apaixonado por tecnologia</h3>
 
-<br/>
+
 
 <div align="center">
  
