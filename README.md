@@ -68,7 +68,6 @@
 <hr/>-->
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;+Volte+sempre!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;+Volte+sempre!;Estou+sempre+disposto+a+colaborar+:)">
 </h3>
-
 <br/>
