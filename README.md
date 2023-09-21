@@ -35,7 +35,6 @@
  <hr/>
  
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,flask,html,css,vscode,figma,git" />
