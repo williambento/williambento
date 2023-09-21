@@ -47,12 +47,13 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/williambento/williambento/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/>
+
+<!--<hr/>
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
@@ -64,7 +65,7 @@
 </div>
 
 <br/><br/>
-<hr/>
+<hr/>-->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
