@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando com **uma aplicação de mobilidade**
+ 🔭 Atualmente estou trabalhando com **desenvolvimento de um site**
  
- 🌱 Atualmente estou aprendendo **Java, AWS**
+ 🌱 Atualmente estou aprendendo **Tratamento de Erros, Express JS**
 
- 💬 Sei sobre **Node.Js, React, Python, TypeScript, HTML, CSS, MongoDB, JavaScript, Next.Js**
+ 💬 Sei sobre **Node.Js, React, Python, TypeScript, HTML, CSS, MongoDB, JavaScript, Java**
 
  ⚡ Curiosidade **Sem café, sem código!**
  
