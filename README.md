@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando com **desenvolvimento de um site**
+ 🔭 Atualmente estou trabalhando com o **Desenvolvimento de um Site**
  
  🌱 Atualmente estou aprendendo **Tratamento de Erros, Express JS**
 
