@@ -42,7 +42,6 @@
 
 
 <hr/>
-<!--
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
@@ -50,7 +49,6 @@
   
   <br/><br/><br/>
 </div>
--->
 <!--
 <hr/>
 
