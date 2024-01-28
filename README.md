@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando com o **Desenvolvimento de um Site**
+ 🔭 Atualmente estou trabalhando como **Trainee Software engineer na SYDLE**
  
  🌱 Atualmente estou aprendendo **Tratamento de Erros, Express JS**
 
