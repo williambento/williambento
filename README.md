@@ -64,3 +64,5 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;+Volte+sempre!;Estou+sempre+disposto+a+colaborar+:)">
 </h3>
+
+![Snake animation](https://github.com/williambento/williambento/blob/output/github-contribution-grid-snake.svg)
